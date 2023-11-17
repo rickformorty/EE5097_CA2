@@ -1,0 +1,15 @@
+# Usage: pip install -r .\requirements.txt
+
+# Base ---------------------------------------
+numpy>=1.18.5
+opencv-python>=4.1.1
+torch>=1.7.0  
+torchvision>=0.8.1
+pandas>=1.1.4
+libsvm-official
+
+# Plotting ------------------------------------
+matplotlib>=3.2.2
+
+# Split Dataset -------------------------------
+scikit-learn  #only for train_test_split.  I did not use it for PCA or LDA.
