@@ -12,4 +12,4 @@ libsvm-official
 matplotlib>=3.2.2
 
 # Split Dataset -------------------------------
-scikit-learn  #only for train_test_split.  I did not use it for PCA or LDA.
+sklearn  #only for train_test_split.  I did not use it for PCA or LDA.

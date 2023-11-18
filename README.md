@@ -19,8 +19,11 @@ Files in '.\*.npy'  are storing the np.array variable to make it easier for me t
 while developing, instead of using cv2.read over and over again
 
 Files in '.\*.h5' are the same usage with *.npy, but in a pandas storage formal.
+<<<<<<< HEAD
 
 ## CNN Archi Plot
 
 ![Archi](README.assets/Archi.png)
 
+=======
+>>>>>>> 5d0f2f918fa46f09847cb31f1cde519fb95266c6
