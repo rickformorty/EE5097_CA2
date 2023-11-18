@@ -24,6 +24,3 @@ Files in '.\*.h5' are the same usage with *.npy, but in a pandas storage formal.
 ## CNN Archi Plot
 
 ![Archi](README.assets/Archi.png)
-
-=======
->>>>>>> 5d0f2f918fa46f09847cb31f1cde519fb95266c6
