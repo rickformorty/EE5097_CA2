@@ -6,7 +6,7 @@ To run my code, Python and Jupyter nootbook is needed. And my Python version is 
 
 Using 'pip install -r .\requirements.txt'  in any one of your virtual environment to install packages used in my CA2.
 
-## About the imported scikit-learn package
+## About the imported sklearn package
 
 It is only for train_test_split function in CNN.ipynb. I did not use it for PCA or LDA.
 
@@ -19,3 +19,8 @@ Files in '.\*.npy'  are storing the np.array variable to make it easier for me t
 while developing, instead of using cv2.read over and over again
 
 Files in '.\*.h5' are the same usage with *.npy, but in a pandas storage formal.
+
+## CNN Archi Plot
+
+![Archi](README.assets/Archi.png)
+
